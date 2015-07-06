@@ -12,3 +12,4 @@
 newcommit
 newcommit1
 newcommit2
+newcommit3
